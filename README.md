@@ -14,6 +14,4 @@ lo/g/os
 </p>
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/nih0/logos)
 
-#logos-linux.org repository
-
-[http://logos-linux.org/](http://logos-linux.org/)
+#![logos-linux.org](http://logos-linux.org/) repository
