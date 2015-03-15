@@ -18,6 +18,10 @@
 .section-description {
   margin-bottom: 1.2rem;
 }
+#faq {
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
 
 /* Hero
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -53,12 +57,6 @@
   font-weight: 300;
 }
 
-/* Help
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.get-help {
-  border-bottom: 1px solid #ddd;
-}
-
 /* Categories
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .categories {
@@ -66,7 +64,7 @@
   background-size: cover;
   color: #fff;
 }
-.categories .section-description { 
+.categories .section-description {
   margin-bottom: 4rem;
 }
 
